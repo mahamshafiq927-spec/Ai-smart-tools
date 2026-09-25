@@ -1,0 +1,6 @@
+{
+  "name": "MagicAI – Free AI Smart Tools",
+  "description": "Secure all-in-one AI smart tools platform with authentication, Google Sign-In, and Gemini-powered productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
